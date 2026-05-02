@@ -1,0 +1,8 @@
+﻿○ powershell 실행정책(보안) 확인하기
+
+Get-ExecutionPolicy -List
+
+===================================================================================
+○ 콘솔화면 갱신 단축키 수동으로 추가하기 (F5 : 실행 , F6 : 콘솔화면 갱신)
+
+$psISE.CurrentPowerShellTab.AddOnsMenu.Submenus.Add("콘솔화면 갱신", { Clear-Host }, "F6")

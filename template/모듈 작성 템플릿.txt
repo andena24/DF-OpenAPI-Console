@@ -1,0 +1,38 @@
+﻿#########################################################
+#region 명세서
+#########################################################
+<#
+
+.버전
+    1.0.0
+
+.개요
+    
+
+.설명
+    
+    
+.연락채널
+    - GitHub : https://github.com/andena24
+    - YouTube : https://www.youtube.com/@%EC%95%8A%EB%8D%B0%EB%83%90
+    - Discord : @andena24
+    - KakaoTalk : https://open.kakao.com/o/sj9iTcpi
+
+.라이센스
+    Copyright (c) 2026 않데냐
+    Licensed under the GNU General Public License, Version 3.0
+
+#>
+#endregion
+#########################################################
+#region 사용자 설정
+
+#endregion
+#########################################################
+#region 시스템 설정
+
+#endregion
+#########################################################
+#region 함수
+
+#endregion
